@@ -8,3 +8,5 @@
 
 ### Git add . 
 **Adiciona todos os arquivos para a esteira de commit**
+
+### git commit
