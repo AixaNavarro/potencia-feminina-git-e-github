@@ -1,3 +1,10 @@
 ## notas de aula referente ao modulo 2
 
-Nesta aula estamos aprendendo comandos
+### Git status
+**verificar o status dos arquivos e pastas dentro do nosso repositorio**
+
+### Git add
+
+
+### Git add . 
+**Adiciona todos os arquivos para a esteira de commit**

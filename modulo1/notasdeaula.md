@@ -1,13 +1,10 @@
 ## Notas de aula referente ao módulo 1 do curso git e github da Potência Feminina
 
-### Git status
-**verificar o status dos arquivos e pastas dentro do nosso repositorio**
+### instalação do git
 
-### Git add
+### configuração do git
 
 
-### Git add . 
-**Adiciona todos os arquivos para a esteira de commit**
+### comandos
 
-### Git add [caminho do arquivo]
-**Vai adicionar um arquivo específico**
+### 
